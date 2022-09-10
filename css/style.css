@@ -1,0 +1,108 @@
+/*Ertunga Kütük Patika İlk Site Denemesi */
+
+
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color: aquamarine;
+    color: green;
+}
+
+li{
+    float: left;
+    padding:12px ;
+}
+
+img {
+    border: 20px darkgreen;
+}
+
+hr{
+    color: darkgreen;
+    border-width: 2px;
+    border-style: solid;
+}
+
+a:link  {
+    text-decoration: none;
+    color: currentColor;
+}
+
+a:visited {
+    color: currentColor;
+}
+
+a:hover {
+    color: darkgreen ;
+}
+
+.fs-large{
+    font-size: 50px;
+}
+
+.fs-m{
+    font-size: 25px;
+}
+
+.fs-s{
+    font-size: 17px;
+}
+
+.f-menu{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+
+
+.baslik img{
+    
+    height:50px ;
+    width: 50px;
+    margin: 0px auto;
+    
+
+    }
+
+.baslik h1{
+    text-align: center;
+    margin: 0px auto;
+    width: 600px;
+    position:relative;
+    display: block;
+}
+
+.f-med{
+text-align: center;
+
+}
+
+.f-med2{
+    text-align: center;
+    margin: 0px auto;
+    width: 500px;    
+
+}
+
+.productsli{
+    padding-left: 150px;
+    list-style-type: none;
+    padding-left:10px ;
+    
+   
+    
+    
+}
+
+.ppli{
+    padding-left: 10px;
+}
+
+.pkutu{
+    border: 3px darkgreen;
+    margin-right: 15px;
+}
+
+
